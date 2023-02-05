@@ -1,0 +1,19 @@
+{
+  "name": "week-15-rest_fetch_functional_components_and_best_practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahguay/Week-15-REST_Fetch_Functional_Components_and_Best_Practices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahguay/Week-15-REST_Fetch_Functional_Components_and_Best_Practices/issues"
+  },
+  "homepage": "https://github.com/hannahguay/Week-15-REST_Fetch_Functional_Components_and_Best_Practices#readme"
+}
